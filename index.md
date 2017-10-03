@@ -17,11 +17,11 @@ I play on a few servers in minetest, heres a list and some info about each!
 
 Info coming soon!
 
-## Legends of Survival
+### Legends of Survival
 
 Info coming soon!
 
-## SC-Economy
+### SC-Economy
 
 Info coming soon!
 

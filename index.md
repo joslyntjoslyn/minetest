@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Minetest
 
-You can use the [editor on GitHub](https://github.com/stolven11/minetest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<p>
+Minetest is an open source voxel like game. <br />
+Minetest has a community of modders and developers creating mods and servers for everyone!
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mods
 
-### Markdown
+I have created a number of mods for minetest! You can find them all here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Servers
 
-```markdown
-Syntax highlighted code block
+I play on a few servers in minetest, heres a list and some info about each!
 
-# Header 1
-## Header 2
-### Header 3
+### MM-Survival
 
-- Bulleted
-- List
+Info coming soon!
 
-1. Numbered
-2. List
+## Legends of Survival
 
-**Bold** and _Italic_ and `Code` text
+Info coming soon!
 
-[Link](url) and ![Image](src)
-```
+## SC-Economy
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Info coming soon!
 
-### Jekyll Themes
+## Minetest News
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stolven11/minetest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here I will post about news happening in minetest!

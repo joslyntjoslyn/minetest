@@ -15,16 +15,12 @@ I play on a few servers in minetest, heres a list and some info about each!
 
 ### MM-Survival
 
-Info coming soon!
+Server closed 10/11/2017 (MM/DD/YY)
 
 ### Legends of Survival
 
 Info coming soon!
 
-### SC-Economy
-
-Info coming soon!
-
 ## Minetest News
 
-Here I will post about news happening in minetest!
+[10/11/17 (MM/DD/YY)] MM-Survival Closed
